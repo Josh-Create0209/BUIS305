@@ -1,2 +1,7 @@
 print('Hello World')
-print(((3+4)+(4*2))/((6+5)-(3+5)+(2+3)))
+Input1=5
+Input2=10
+Input3=15
+Sum=Input1+Input2+Input3
+Product=Input1*Input2*Input3
+print(Sum, Product)
